@@ -1,0 +1,17 @@
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\ObserverVI.csproj.AssemblyReference.cache
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\CurrentConditionDisplay.g.cs
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\CurrentConditionDisplay.baml
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\ObserverVI.csproj.GenerateResource.cache
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\ObserverVI.csproj.CoreCompileInputs.cache
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\svetyukov.2020\source\repos\ConsoleApp4\WpfApp1\obj\Debug\WpfApp1.pdb
