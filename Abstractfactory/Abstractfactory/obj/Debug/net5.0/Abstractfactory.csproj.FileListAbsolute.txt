@@ -1,0 +1,16 @@
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.csproj.AssemblyReference.cache
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.AssemblyInfoInputs.cache
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.AssemblyInfo.cs
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.csproj.CoreCompileInputs.cache
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.exe
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.deps.json
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.runtimeconfig.json
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.runtimeconfig.dev.json
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.dll
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\ref\Abstractfactory.dll
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\bin\Debug\net5.0\Abstractfactory.pdb
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.dll
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\ref\Abstractfactory.dll
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.pdb
+C:\Users\svetyukov.2020\source\repos\Abstractfactory\Abstractfactory\obj\Debug\net5.0\Abstractfactory.genruntimeconfig.cache
